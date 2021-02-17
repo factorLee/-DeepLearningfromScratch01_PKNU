@@ -1,4 +1,2 @@
 # DeepLearningfromScratch01_PKNU
-<table>
-  asdfs
-</table>
+<li>g2</li>
